@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kaveen Pasinduma and I'm a Software Engineering Undergraduate, from SLIIT</p>
+<p align="left">My name is Kaveen Pasinduma and I'm a Software Engineering Undergraduate, from Sri Lanka</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">I code with Java and Python</h2>
+<h2 align="left">I code with </h2>
 
 ###
 
