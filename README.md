@@ -5,9 +5,6 @@
 <p align="left">My name is Kaveen Pasinduma and I'm a Software Engineering Undergraduate, from Sri Lanka</p>
 
 ###
-
-<h2 align="left">About me</h2>
-
 ###
 
 ###
