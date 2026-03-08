@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kaveen Pasinduma and I'm a Software Engineering Undergraduate, from Sri Lanka</p>
+<p align="left">I'm Kaveen Pasindumal, a Software Engineering Undergraduate from Sri Lanka 🇱🇰 passionate about software development, DevOps, and cloud.</p>
 
 ###
 ###
