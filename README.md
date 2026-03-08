@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I'm Kaveen Pasindumal, a Software Engineering Undergraduate from Sri Lanka 🇱🇰 passionate about software development, DevOps, and cloud.</p>
+<p align="left">I’m Kaveen Pasindumal, a Software Engineering undergraduate from Sri Lanka 🇱🇰 with a strong passion for software development, DevOps, and cloud technologies.<br>
+I enjoy building practical solutions, exploring modern tools, and continuously improving my skills to stay aligned with the evolving tech landscape. My interests span across backend development, cloud infrastructure, and automation, where I love turning ideas into real-world applications.<br>
+Beyond coding, I spend time experimenting with emerging technologies, contributing to open-source projects, and sharing knowledge with the developer community. I strongly believe in continuous learning and enjoy collaborating with others to create meaningful and impactful software.</p>
 
 ###
 ###
